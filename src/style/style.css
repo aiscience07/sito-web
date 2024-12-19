@@ -660,3 +660,14 @@ header .navbar{
     width: 550px;
     height: 300px;
 }
+
+.contact{
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: url(bg.jpg);
+    background-size: cover;
+}
